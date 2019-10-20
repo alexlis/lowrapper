@@ -6,7 +6,7 @@
  * Time: 23:42
  */
 
-namespace Mnvx\Lowrapper;
+namespace Alexlist\Lowrapper;
 
 
 class DocumentType
@@ -145,7 +145,7 @@ class DocumentType
         Format::GRAPHICS_VOR3 => DocumentType::DRAW,
         Format::GRAPHICS_WMF => DocumentType::DRAW,
         Format::GRAPHICS_XHTML => DocumentType::DRAW,
-        Format::GRAPHICS_XPM => DocumentType::DRAW,            
+        Format::GRAPHICS_XPM => DocumentType::DRAW,
 
         Format::PRESENTATION_BMP => DocumentType::IMPRESS,
         Format::PRESENTATION_EMF => DocumentType::IMPRESS,

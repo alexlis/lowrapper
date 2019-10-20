@@ -7,7 +7,7 @@
   "homepage": "https://github.com/alexlist/lowrapper",
   "autoload": {
     "psr-4": {
-      "Mnvx\\Lowrapper\\": "src/"
+      "Alexlist\\Lowrapper\\": "src/"
     }
   },
   "require": {

@@ -1,6 +1,6 @@
 <?php
 
-namespace Mnvx\Lowrapper;
+namespace Alexlist\Lowrapper;
 
 use Psr\Log\LoggerInterface;
 use Psr\Log\LoggerAwareTrait;
