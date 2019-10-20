@@ -1,10 +1,10 @@
 {
-  "name": "mnvx/lowrapper",
+  "name": "alexlist/lowrapper",
   "license": "MIT",
   "type": "library",
   "description": "PHP wrapper over LibreOffice converter",
   "keywords": ["libreoffice", "converter", "word", "pdf", "excel", "docx", "xls", "xlsx"],
-  "homepage": "https://github.com/mnvx/lowrapper",
+  "homepage": "https://github.com/alexlist/lowrapper",
   "autoload": {
     "psr-4": {
       "Mnvx\\Lowrapper\\": "src/"
